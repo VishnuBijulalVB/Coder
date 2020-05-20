@@ -5,3 +5,4 @@ Just some problems I found interesting
     #(':').join()
 2. GradingStudents
 3. Kangaroo
+4. Numbers in a Haystack
